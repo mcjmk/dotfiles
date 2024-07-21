@@ -1,0 +1,7 @@
+[user]
+	name = Maciej M
+	email = mcj.mezyk@gmail.com
+[core]
+	editor = notepad.exe
+[init]
+	defaultBranch = main
