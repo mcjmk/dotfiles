@@ -1,0 +1,14 @@
+name: ml
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - scikit-learn
+  - tensorflow
+  - keras
+  - matplotlib
+  - seaborn
+  - jupyter
+  - fastai
