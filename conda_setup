@@ -2,3 +2,4 @@ conda create -n ml python=3.11
 conda activate ml
 conda install numpy pandas scikit-learn matplotlib seaborn jupyter pip
 pip install fastai fastbook tensorflow keras
+pip install jupyter_contrib_nbextensions
