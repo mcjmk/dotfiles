@@ -2,6 +2,6 @@
 	name = Maciej M
 	email = mcj.mezyk@gmail.com
 [core]
-	editor = notepad.exe
+	editor = vim.exe
 [init]
 	defaultBranch = main
