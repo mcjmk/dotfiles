@@ -1,0 +1,16 @@
+# Compiled source #
+###################
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.pyc
+
+# Editing tools and IDEs #
+##########################
+*~
+~*
+.ipynb_checkpoints/
+.idea
+.vscode
