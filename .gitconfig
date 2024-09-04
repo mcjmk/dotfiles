@@ -3,7 +3,9 @@
 	email = mcj.mezyk@gmail.com
 [core]
 	editor = vim.exe
-	excludesfile = ~/.gitignore_global	
+	excludesfile = ~/.gitignore_global
+	autocrlf = true
+    	safecrlf = true
 [init]
 	defaultBranch = main
 [alias]
