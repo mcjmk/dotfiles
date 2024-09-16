@@ -1,3 +1,4 @@
+set -o vi
 alias rm="rm -i"
 alias mv="mv -i"
 alias mkdir="mkdir -p" 
@@ -13,3 +14,4 @@ export PIP_REQUIRE_VIRTUALENV=true
 gpip() {
     PIP_REQUIRE_VIRTUALENV=false pip "$@"
 }
+
