@@ -1,6 +1,8 @@
 set -o vi
+
 alias rm="rm -i"
 alias mv="mv -i"
+alias cp="cp -i"
 alias mkdir="mkdir -p" 
 
 # Create a directory and cd into it
