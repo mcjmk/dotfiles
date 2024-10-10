@@ -1,5 +1,8 @@
 set -o vi
 
+alias ll='ls -lahF'
+alias la='ls -A'
+
 alias rm="rm -i"
 alias mv="mv -i"
 alias cp="cp -i"
