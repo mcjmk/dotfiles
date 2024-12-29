@@ -14,5 +14,8 @@
 	ci = commit
 	st = status
 	sw = switch
+    	last = log -1 HEAD
+    	lg = log --graph --oneline --decorate
+    	lga = log --graph --oneline --decorate --all
 [color]
 	ui = auto
