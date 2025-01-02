@@ -20,3 +20,5 @@ gpip() {
     PIP_REQUIRE_VIRTUALENV=false pip "$@"
 }
 
+# Load Angular CLI autocompletion.
+source <(ng completion script)
