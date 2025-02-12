@@ -78,6 +78,16 @@
         "<C-f>": false
     },
 
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact",
+        "vue",
+        "html"
+    ],
+    "eslint.format.enable": true,
+
     "terminal.integrated.defaultProfile.windows": "Git Bash",
     "terminal.integrated.profiles.windows": {
         "Git Bash": {
