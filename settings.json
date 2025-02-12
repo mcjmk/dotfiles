@@ -77,4 +77,12 @@
         "<C-b>": false,
         "<C-f>": false
     },
+
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "terminal.integrated.profiles.windows": {
+        "Git Bash": {
+            "path": "C:\\Program Files\\Git\\bin\\bash.exe",
+            "args": ["--cd=."]
+        }
+    },
 }
