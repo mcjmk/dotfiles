@@ -67,6 +67,11 @@
         "editor.formatOnSave": false,
 	"editor.formatOnPaste": false
     },
+
+    "[cpp]": {
+        "editor.tabSize": 4,
+        "editor.insertSpaces": true
+    },
     
     "prettier.printWidth": 90,
     "prettier.tabWidth": 4,
