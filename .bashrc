@@ -22,3 +22,5 @@ gpip() {
 
 # Load Angular CLI autocompletion.
 source <(ng completion script)
+
+alias proj='cd ~/projects'
