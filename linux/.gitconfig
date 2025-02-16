@@ -2,7 +2,7 @@
 	name = Maciej Mezyk
 	email = mcj.mezyk@gmail.com
 [core]
-	editor = vim.exe
+	editor = vim
 	excludesfile = ~/.gitignore_global
 	autocrlf = input
     safecrlf = true
