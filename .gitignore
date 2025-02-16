@@ -1,0 +1,5 @@
+venv/
+oryx-build-commands.txt
+.env
+__pycache__/
+*.pyc
