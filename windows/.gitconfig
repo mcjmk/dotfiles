@@ -5,7 +5,7 @@
 	editor = vim.exe
 	excludesfile = ~/.gitignore_global
 	autocrlf = true
-    	safecrlf = true
+    safecrlf = true
 [init]
 	defaultBranch = main
 [alias]
@@ -14,8 +14,8 @@
 	ci = commit
 	st = status
 	sw = switch
-    	last = log -1 HEAD
-    	lg = log --graph --oneline --decorate
-    	lga = log --graph --oneline --decorate --all
+    last = log -1 HEAD
+    lg = log --graph --oneline --decorate
+    lga = log --graph --oneline --decorate --all
 [color]
 	ui = auto
