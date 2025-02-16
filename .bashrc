@@ -13,13 +13,6 @@ mcd() {
     mkdir "${1}" && cd "${1}"
 }
 
-# Require virtualenv to install packages with pip to avoid messing up system packages
-export PIP_REQUIRE_VIRTUALENV=true
-
-gpip() {
-    PIP_REQUIRE_VIRTUALENV=false pip "$@"
-}
-
 # Load Angular CLI autocompletion.
 source <(ng completion script)
 
