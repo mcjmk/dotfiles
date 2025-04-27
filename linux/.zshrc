@@ -74,6 +74,7 @@ plugins=(
   git
   nvm
   docker
+  fzf
   you-should-use
   zsh-autosuggestions
   zsh-syntax-highlighting
